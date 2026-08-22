@@ -13,7 +13,7 @@ HTML file with no frameworks, build process, or external dependencies.
 
 GitHub will publish the policy at:
 
-`https://mudasarmarth.github.io/whirlfall-privacy/`
+`https://mudasarnazir.github.io/whirlfall-privacy/`
 
 Allow a few minutes for the first deployment. Use the published HTTPS URL for Whirlfall's
 privacy-policy setting and in App Store Connect.
