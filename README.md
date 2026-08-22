@@ -1,7 +1,7 @@
 # Whirlfall Privacy Policy
 
-A minimal static GitHub Pages site for Whirlfall's privacy policy. It uses one standalone
-HTML file with no frameworks, build process, or external dependencies.
+A minimal static GitHub Pages site for Whirlfall's privacy policy and Terms of Use. It uses
+standalone HTML with no frameworks, build process, or external dependencies.
 
 ## Publish with GitHub Pages
 
